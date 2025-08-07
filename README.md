@@ -135,3 +135,11 @@ Dashboard criado para o monitoramento geral da base de dados, a fim de saber o q
 - Cruzar dados de avaliação dos clientes com performance operacional
 - Expandir o modelo para outras regiões e segmentos
 
+---
+
+## 📎 Links Úteis
+
+- 🔗 [Dashboard no Looker Studio]([https://link-para-o-looker](https://lookerstudio.google.com/reporting/0e052491-a41f-49cb-8659-f3b146cc9161))
+- 📄 [Google Sheets com Base de Dados]([https://link-do-sheets](https://docs.google.com/spreadsheets/d/1E9-XWQbyWeNFkYxrX-moARdzdiCHVBAPmssxMciTWOo/edit?usp=sharing))
+
+
