@@ -1,6 +1,7 @@
 # Projeto Análise Dados iFood Hackday
 
-<img width="1536" height="1024" alt="ifood" src="https://github.com/user-attachments/assets/f45d15bb-8a19-4cec-83c3-286f99d73983" />
+![hackday](https://github.com/user-attachments/assets/dc0613fa-424d-4449-8ed1-78f71a269578)
+
 
 
 # 📦 Análise Logístico de Entregas - iFood
